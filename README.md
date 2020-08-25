@@ -6,8 +6,7 @@ My personal business card. Imagine every time you wanted to give someone your co
 
 ## Screenshot
 
-![site-screen-template](https:)
+![site-screen-template](https://github.com/5hre9a/bizcard-app/blob/master/phone.png)
 
 
 
-C:\Users\kavit\Desktop\mi-flutter-card-master\mi-flutter-card-master\phone.png
